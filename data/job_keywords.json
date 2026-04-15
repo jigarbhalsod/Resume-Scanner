@@ -1,0 +1,6 @@
+{
+  "ml_engineer": ["python", "tensorflow", "pytorch", "nlp", "data"],
+  "frontend_dev": ["javascript", "react", "css", "html"],
+  "backend_dev": ["django", "flask", "api", "database"],
+  "data_analyst": ["sql", "excel", "pandas", "visualization"]
+}

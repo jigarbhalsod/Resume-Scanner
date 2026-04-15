@@ -1,0 +1,18 @@
+[
+  {
+    "role": "ML Engineer",
+    "description": "python machine learning deep learning tensorflow pytorch data preprocessing feature engineering model training evaluation numpy pandas"
+  },
+  {
+    "role": "Frontend Developer",
+    "description": "javascript react html css frontend ui ux"
+  },
+  {
+    "role": "Backend Developer",
+    "description": "python django flask api database backend system design"
+  },
+  {
+    "role": "Data Analyst",
+    "description": "sql pandas data visualization excel dashboard"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "languages": ["python", "java", "c++", "javascript", "go", "rust"],
+  "frameworks": ["react", "django", "flask", "spring", "tensorflow"],
+  "tools": ["docker", "kubernetes", "git", "aws", "linux"],
+  "concepts": ["machine learning", "data structures", "algorithms", "dbms", "os"]
+}
